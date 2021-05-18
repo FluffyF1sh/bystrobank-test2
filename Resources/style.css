@@ -1,0 +1,5 @@
+.numfield::-webkit-outer-spin-button,
+.numfield::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
